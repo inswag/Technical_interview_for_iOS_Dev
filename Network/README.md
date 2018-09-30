@@ -5,7 +5,7 @@
 
 #### Network 
 
-* REST API
+* REST API 
 
 * 서버와 통신해서 데이터를 어떻게 가져왔나요 ?
 

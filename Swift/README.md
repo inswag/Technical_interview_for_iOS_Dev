@@ -19,6 +19,8 @@
 
 * (ARC 관련) Strong, Weak, Unowned 의 개념
 
+* INSWAG : ARC [Part. 1](http://atelier-chez-moi.tistory.com/37) / [Part. 2](http://atelier-chez-moi.tistory.com/40)
+
 * ARC와 Block, GCD 와 연관해서 설명해보세요
 
 * Static 키워드
@@ -26,6 +28,14 @@
 * Overloading vs Overriding
 
 * Access Control 의 종류와 특징
+
+* Delegate 와 Protocol 의 차이는 무엇일까요 ?
+
+* Rxswift 란 무엇일까요 ?
+
+* HIG(Human Interface Guideline) 을 알고 있나요 ?
+
+* Optional 의 개념에 대해 설명할 수 있나요 ?
 
 <br>
 

@@ -11,6 +11,8 @@
 
 * 객체 지향 프로그래밍(OOP) 의 정의와 특징
 
+* 함수형 프로그래밍(FP) 의 정의와 특징
+
 * 'Call by value' vs 'Call by reference'
 
 * 동기 vs 비동기
@@ -22,6 +24,8 @@
 * 64비트와 32비트의 차이
 
 * Mutable 객체 vs Immutable 객체. 
+
+* 일급 객체란 무엇일까요 ?
 
 <br>
 
