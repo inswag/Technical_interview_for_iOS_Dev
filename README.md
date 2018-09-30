@@ -5,43 +5,43 @@
 <br>
 <br>
 
-### Part 1. ![일상적인 질문들(Ordinary Questions)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/OrdinaryQuestions)
+### Part 1. [일상적인 질문들(Ordinary Questions)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/OrdinaryQuestions)
 
 * 기술적인 부분 이외의 면접에서 질문 받을 수 있는 보통의 질문들을 모아봤습니다. 
 
 <br>
 
-### Part 2. ![컴퓨터 기본(Computer Basic)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/ComputerBasic)
+### Part 2. [컴퓨터 기본(Computer Basic)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/ComputerBasic)
 
 * 면접에서 질문받을 수 있는 컴퓨터 기본 지식을 모아봤습니다.
 
 <br>
 
-### Part 3. ![스위프트(Swift)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/Swift)
+### Part 3. [스위프트(Swift)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/Swift)
 
 * 면접에서 질문받을 수 있는 스위프트 핵심 개념을 모아봤습니다.
 
 <br>
 
-### Part 4. ![iOS](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/iOS)
+### Part 4. [iOS](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/iOS)
 
 * 면접에서 질문받을 수 있는 iOS 핵심 개념을 모아봤습니다.
 
 <br>
 
-### Part 5. ![네트워크(Network)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/Network)
+### Part 5. [네트워크(Network)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/Network)
 
 * 면접에서 질문받을 수 있는 네트워크 핵심 개념을 모아봤습니다.
 
 <br>
 
-### Part 6. ![디자인 패턴(Design Pattern)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/DesignPattern)
+### Part 6. [디자인 패턴(Design Pattern)](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/DesignPattern)
 
 * 면접에서 질문받을 수 있는 디자인 패턴을 모아봤습니다.
 
 <br>
 
-### Part 7. ![Git](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/Git)
+### Part 7. [Git](https://github.com/inswag/Technical_interview_for_iOS_Dev/tree/master/Git)
 
 * 면접에서 질문받을 수 있는 Git 에 관련된 내용을 모아봤습니다.
 
