@@ -6,14 +6,16 @@
 #### iOS 
 
 * App Life Cycle
-- [앱 생명 주기와 실행상태 정리](https://atelier-chez-moi.tistory.com/29)
+
+ㄱ. [앱 생명 주기와 실행상태 정리](https://atelier-chez-moi.tistory.com/29)
 
 * AppDelegate 에서 앱의 상태 변화에 따라 호출되는 함수에 대해 명확히 설명할 수 있나요 ?
 
 * View Life Cycle
 
 * 스레드(thread) 와 프로세스(Process) 의 차이점 ? / Program vs Process
-- [두 가지 한방 정리](https://atelier-chez-moi.tistory.com/36)
+
+ㄱ. [두 가지 한방 정리](https://atelier-chez-moi.tistory.com/36)
 
 * [객체 지향 프로그래밍(OOP) 의 정의와 특징](https://atelier-chez-moi.tistory.com/26)
 
@@ -42,18 +44,20 @@
 * NSArray, NSDictionary, NSSet의 쓰임
 
 * Table View 혹은 Collection View 에서 꼭 필요한 Delegate 와 Function 은 무엇이고 어떤 역할을 하나요 ?
-- 끝이 '-DataSource' 나 '-Delegate' 로 끝나는 함수들이 꼭 필요한 함수이다.
-- DataSource 의 경우 테이블 뷰나 컬렉션 뷰에 데이터를 제공하는 역할을 하고, Delegate 의 경우에는 이벤트가 발생했을 경우 처리할 메서드를 제공한다.
+
+ㄱ. 끝이 '-DataSource' 나 '-Delegate' 로 끝나는 함수들이 꼭 필요한 함수이다. DataSource 의 경우 테이블 뷰나 컬렉션 뷰에 데이터를 제공하는 역할을 하고, Delegate 의 경우에는 이벤트가 발생했을 경우 처리할 메서드를 제공한다.
 
 * Instrument 를 활용하여 앱의 Memory 사용량을 확인하고 리팩토링해본 경험이 있나요?
 
 * 이미지를 Memory-Cache 와 Disk-Cache 를 이용해 보았다면, 설명해볼 수 있나요 ?
 
 * GCD(Grand Central Dispatch)의 개념을 설명할 수 있나요 ?
- - [초보자를 위한 Grand Central Dispatch](https://atelier-chez-moi.tistory.com/43)
+
+ㄱ. [초보자를 위한 Grand Central Dispatch](https://atelier-chez-moi.tistory.com/43)
 
 * (Thread 관련) 화면이 멈추지 않게 하려면 어떤 스레드를 건드리지 말아야 하나요 ? 
-- Main Thread 에서 Sync 를 사용하면 안된다. 
+
+ㄱ. Main Thread 에서 Sync 를 사용하면 안된다. 
 
 * Background Task 를 이용해 백그라운드에서 동작하는 작업을 설명할 수 있나요 ?
 
