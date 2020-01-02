@@ -5,9 +5,9 @@
 
 #### Architecture Design Pattern
 
-* MVC 패턴
+* MVC 패턴(Model - View - Controller)
 
-* MVVM 패턴
+* MVVM 패턴(Model - View - ViewModel)
 
 * MVP 패턴
 
@@ -17,8 +17,8 @@
 
 #### Programming Design Pattern 
 
-* Delegate 
+* [Delegate](https://atelier-chez-moi.tistory.com/100) 
 
 * Delegate vs Notification ( 차이와 활용 )
 
-* Singleton
+* [Singleton](https://atelier-chez-moi.tistory.com/95)
